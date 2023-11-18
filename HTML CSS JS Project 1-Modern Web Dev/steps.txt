@@ -1,0 +1,8 @@
+#Steps that are important for this project
+-smooth scrolling
+    attach locoscroll css
+    attach locomotive scroll min js
+    some code from loco github for js
+-gsap
+    attach gsap
+-scroll trigger
